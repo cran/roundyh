@@ -1,0 +1,12 @@
+ce7e148bdc6c8bf7e74d0908d2756a26 *DESCRIPTION
+2e105bc5e52cc6358d56418112afba59 *LICENSE
+56693e0506feb3f80a3cda2e81bfac98 *NAMESPACE
+2cce1de63e9cbd277fa5f382e6369b87 *NEWS.md
+f5c30dd4626164c9b3d3bdc6e5f0adf0 *R/roundx.R
+8ed700aca11b2e6f875184f3926a7f60 *README.md
+6f03dd377321d94c259e4b4375949524 *inst/WORDLIST
+46ea6283286cce3b745c0de7cfbd5843 *man/roundx.Rd
+b09de611cd3aee35c01bd893f34bba68 *man/roundx_df.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
+a4e2796d0e95f865139347b5c85ebd82 *tests/testthat.R
+37ca5594ef09c52267f74c029d86e299 *tests/testthat/test-roundyh.R
